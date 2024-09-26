@@ -30,4 +30,4 @@ I'm a Software Developer currently working at Opas Mobile, where I lead the deve
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](your-linkedin-url) or check out my projects on [GitHub](your-github-url).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kathanjshah/) or check out my projects on [GitHub](https://github.com/kathanjshah).
