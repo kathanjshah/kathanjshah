@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a Senior Software Developer currently working at GroundControl, where I currently focused on building secure, high-performance systems by integrating ORCA security alerts to detect and respond to threats like SSRF and CSRF, while developing scalable Server Actions–based APIs. Previously, I led key modernization efforts, upgrading the platform to the latest Next.js and React, migrating from Webpack to Turbopack, and improving the overall architecture using Next.js, React, TypeScript, Node.js, Go, and Python to boost performance, scalability, and developer productivity.
+I'm a Software Developer currently working at GroundControl, where I currently focused on building secure, high-performance systems by integrating ORCA security alerts to detect and respond to threats like SSRF and CSRF, while developing scalable Server Actions–based APIs. Previously, I led key modernization efforts, upgrading the platform to the latest Next.js and React, migrating from Webpack to Turbopack, and improving the overall architecture using Next.js, React, TypeScript, Node.js, Go, and Python to boost performance, scalability, and developer productivity.
 
 ## 💻 Technical Skills
 
